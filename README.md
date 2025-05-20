@@ -13,7 +13,7 @@
 1. **Clone o repositório**
    ```bash
    git clone https://github.com/FPS1990/pratiExercicios.git
-   cd Exer-maispraTI
+   cd pratiExercicios
 
 2. **Instale a biblioteca prompt-sync** 
 
@@ -27,4 +27,4 @@
 
 - Por exemplo:
 
-  node exercicio1.js
+  node ex1.js
