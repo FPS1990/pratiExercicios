@@ -12,7 +12,7 @@
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/Mariana322/Exer-maispraTI.git
+   git clone https://github.com/FPS1990/pratiExercicios.git
    cd Exer-maispraTI
 
 2. **Instale a biblioteca prompt-sync** 
